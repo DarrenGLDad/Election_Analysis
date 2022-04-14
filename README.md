@@ -18,16 +18,25 @@ Assist Colorado Board of Elections employee with an audit of a recent congressio
 
 The election outcome:
 
-- There were 369,711 votes cast in the election.
+There were 369,711 votes cast in the election.
 - The candidates were:
+
   -Charles Casper Stockham
+  
   -Diana DeGette
+  
   -Raymon Anthony Doane
+  
 - The candidate results were:
+
   -Charles Casper Stockham received 23% of the vote and 85,213 votes.
+  
   -Diana DeGette received almost 74% of the vote and 272,892 votes.
+  
   -Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+  
 - The winner of the election was:
+
   -Diana DeGette who received 73.8% of the vote and 272,892 votes.
   
 ![imageOfTextFile_Election](https://user-images.githubusercontent.com/100239100/163303508-3de092b9-24c4-45ce-b40d-24153c26c529.png)
@@ -39,7 +48,7 @@ Create Lists, Dictionaries, Strings, Variables, as well as for-loops and decisio
 
 ## Challenge Summary
 
-- Ascertained the county with the largest voter turnout as well as each county's percentage of the total vote count.
+-Ascertained the county with the largest voter turnout as well as each county's percentage of the total vote count.
 
 This script can be used for any election to determine not only a winner but several other integral pieces of information to formulate future plans for the campaign trail; for instances, where one might want to focus the efforts.
 
